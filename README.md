@@ -234,7 +234,7 @@ Ver `pom.xml` para la lista completa de dependencias.
 
 ## 👤 Autor
 
-Usuario
+Víctor Aguilar Santamaría
 
 ## 📄 Licencia
 
