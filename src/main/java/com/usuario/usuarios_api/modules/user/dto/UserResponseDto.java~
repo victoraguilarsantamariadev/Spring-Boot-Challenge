@@ -1,0 +1,4 @@
+package com.usuario.usuarios_api.modules.user.dto;
+
+public record UserResponseDto() {
+}
